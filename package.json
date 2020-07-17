@@ -35,7 +35,7 @@
     "mime": "^1.3.4",
     "preact": "^8.1.0",
     "preact-compat": "^3.14.3",
-    "style-loader": "^0.18.1"
+    "style-loader": "^0.20.0"
   },
   "devDependencies": {
     "@vimeo/eslint-config-player": "^5.0.0",
